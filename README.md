@@ -95,6 +95,5 @@ nVlAltura | Altura da encomenda (incluindo embalagem), em centímetros. Se o for
 nVlLargura | Largura da encomenda (incluindo embalagem), em centímetros.
 nVlDiametro | Diâmetro da encomenda (incluindo embalagem), em centímetros.
 sCdMaoPropria | Indica se a encomenda será entregue com o serviço adicional mão própria. (S – Sim, N – Não).
-nVlValorDeclarado | Indica se a encomenda será entregue com o serviço adicional valor declarado.
-    Neste campo deve ser apresentado o valor declarado desejado, em Reais.
+nVlValorDeclarado | Indica se a encomenda será entregue com o serviço adicional valor declarado. Neste campo deve ser apresentado o valor declarado desejado, em Reais.
 sCdAvisoRecebimento | Indica se a encomenda será entregue com o serviço adicional aviso de recebimento. (S – Sim, N – Não).
